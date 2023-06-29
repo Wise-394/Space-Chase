@@ -4,14 +4,16 @@
 
 Space Chase is a spaceship 2D shooting game that will test your skills and reflexes! In this fast-paced adventure, you must take control of your spacecraft and navigate through space, battling waves of enemy ships that are out to get you.
 
+<b>Play on:</b>
+
+[![itch](https://img.shields.io/badge/itch-black?style=for-the-badge&logo=itch.io&logoColor=white)](https://wise-394.itch.io/space-chase)
 
 ## Tech used
 
 
-![unity Badge](https://img.shields.io/badge/Unity-white)
-![c# Badge](https://img.shields.io/badge/CSharp-blue)
-![vsc Badge](https://img.shields.io/badge/VScode-purple)
-
+![unity badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white)
+![csharp badge](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=C#&logoColor=white)
+![vscode badge](https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=visualStudioCode&logoColor=white)
 
 ## Gameplay
 
